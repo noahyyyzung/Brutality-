@@ -1,0 +1,16 @@
+{
+  "name": "Rumble-Tron",
+  "short_name": "Rumble-Tron",
+  "description": "A VR superhero sandbox: fly, swing, smash a glass city, and take down kaiju and alien motherships. Made by Noah Young.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#120a2e",
+  "theme_color": "#120a2e",
+  "icons": [
+    { "src": "icons/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any" },
+    { "src": "icons/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" }
+  ]
+}
